@@ -42,4 +42,4 @@ To find the total distance between the left list and the right list, add up the 
 
 Your actual left and right lists contain many location IDs. What is the total distance between your lists?
 
-link to list: (https://adventofcode.com/2024/day/1/input)[https://adventofcode.com/2024/day/1/input]
+link to list: https://adventofcode.com/2024/day/1/input
